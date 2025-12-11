@@ -1,0 +1,46 @@
+{"level":"info","message":"Hello from Acquisitions!","service":"acquisitions-api","timestamp":"2025-12-11T04:09:59.167Z"}
+{"level":"info","message":"Hello from Acquisitions!","service":"acquisitions-api","timestamp":"2025-12-11T05:01:03.963Z"}
+{"level":"info","message":"::1 - - [11/Dec/2025:05:01:03 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api","timestamp":"2025-12-11T05:01:03.972Z"}
+{"level":"info","message":"Hello from Acquisitions!","service":"acquisitions-api","timestamp":"2025-12-11T05:01:05.515Z"}
+{"level":"info","message":"::1 - - [11/Dec/2025:05:01:05 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api","timestamp":"2025-12-11T05:01:05.517Z"}
+{"level":"info","message":"Hello from Acquisitions!","service":"acquisitions-api","timestamp":"2025-12-11T05:12:32.200Z"}
+{"level":"info","message":"::1 - - [11/Dec/2025:05:12:32 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api","timestamp":"2025-12-11T05:12:32.212Z"}
+{"level":"info","message":"Hello from Acquisitions!","service":"acquisitions-api","timestamp":"2025-12-11T05:15:46.399Z"}
+{"level":"info","message":"::1 - - [11/Dec/2025:05:15:46 +0000] \"GET / HTTP/1.1\" 200 24 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api","timestamp":"2025-12-11T05:15:46.417Z"}
+{"level":"info","message":"::1 - - [11/Dec/2025:05:17:13 +0000] \"GET /api HTTP/1.1\" 200 63 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api","timestamp":"2025-12-11T05:17:13.061Z"}
+{"level":"info","message":"::1 - - [11/Dec/2025:05:17:39 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api","timestamp":"2025-12-11T05:17:39.073Z"}
+{"level":"info","message":"::1 - - [11/Dec/2025:05:18:18 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 31 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api","timestamp":"2025-12-11T05:18:18.435Z"}
+{"level":"info","message":"::1 - - [11/Dec/2025:05:59:14 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 200 31 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api","timestamp":"2025-12-11T05:59:14.594Z"}
+{"level":"info","message":"::1 - - [11/Dec/2025:06:01:33 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 92 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api","timestamp":"2025-12-11T06:01:33.737Z"}
+{"level":"info","message":"::1 - - [11/Dec/2025:06:03:11 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 92 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api","timestamp":"2025-12-11T06:03:11.525Z"}
+{"level":"info","message":"::1 - - [11/Dec/2025:06:04:38 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 92 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api","timestamp":"2025-12-11T06:04:38.498Z"}
+{"level":"info","message":"::1 - - [11/Dec/2025:06:05:39 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 92 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api","timestamp":"2025-12-11T06:05:39.701Z"}
+{"level":"info","message":"User registered successfully: muneefsyed01@gmail.com","service":"acquisitions-api","timestamp":"2025-12-11T06:09:14.535Z"}
+{"level":"info","message":"::1 - - [11/Dec/2025:06:09:14 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 108 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api","timestamp":"2025-12-11T06:09:14.536Z"}
+{"level":"info","message":"User created successfully: muneefsyed01@gmail.com","service":"acquisitions-api","timestamp":"2025-12-11T07:16:46.414Z"}
+{"level":"info","message":"User registered successfully: muneefsyed01@gmail.com","service":"acquisitions-api","timestamp":"2025-12-11T07:16:46.423Z"}
+{"level":"info","message":"::1 - - [11/Dec/2025:07:16:46 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 108 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api","timestamp":"2025-12-11T07:16:46.426Z"}
+{"level":"info","message":"User created successfully: syedmuneef53@gmail.com","service":"acquisitions-api","timestamp":"2025-12-11T07:17:55.561Z"}
+{"level":"info","message":"User registered successfully: syedmuneef53@gmail.com","service":"acquisitions-api","timestamp":"2025-12-11T07:17:55.568Z"}
+{"level":"info","message":"::1 - - [11/Dec/2025:07:17:55 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 108 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api","timestamp":"2025-12-11T07:17:55.570Z"}
+{"level":"info","message":"User muneefsyed01@gmail.com authenticated successfully","service":"acquisitions-api","timestamp":"2025-12-11T09:20:04.592Z"}
+{"level":"info","message":"User signed in successfully: muneefsyed01@gmail.com","service":"acquisitions-api","timestamp":"2025-12-11T09:20:04.598Z"}
+{"level":"info","message":"::1 - - [11/Dec/2025:09:20:04 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 120 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api","timestamp":"2025-12-11T09:20:04.600Z"}
+{"level":"info","message":"User signed out successfully","service":"acquisitions-api","timestamp":"2025-12-11T09:20:14.563Z"}
+{"level":"info","message":"::1 - - [11/Dec/2025:09:20:14 +0000] \"POST /api/auth/sign-out HTTP/1.1\" 200 42 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api","timestamp":"2025-12-11T09:20:14.564Z"}
+{"level":"info","message":"User signed out successfully","service":"acquisitions-api","timestamp":"2025-12-11T09:20:27.218Z"}
+{"level":"info","message":"::1 - - [11/Dec/2025:09:20:27 +0000] \"POST /api/auth/sign-out HTTP/1.1\" 200 42 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api","timestamp":"2025-12-11T09:20:27.219Z"}
+{"level":"info","message":"User syedmuneef53@gmail.com authenticated successfully","service":"acquisitions-api","timestamp":"2025-12-11T09:20:33.841Z"}
+{"level":"info","message":"User signed in successfully: syedmuneef53@gmail.com","service":"acquisitions-api","timestamp":"2025-12-11T09:20:33.841Z"}
+{"level":"info","message":"::1 - - [11/Dec/2025:09:20:33 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 120 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api","timestamp":"2025-12-11T09:20:33.842Z"}
+{"level":"info","message":"User signed out successfully","service":"acquisitions-api","timestamp":"2025-12-11T09:20:39.329Z"}
+{"level":"info","message":"::1 - - [11/Dec/2025:09:20:39 +0000] \"POST /api/auth/sign-out HTTP/1.1\" 200 42 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api","timestamp":"2025-12-11T09:20:39.330Z"}
+{"level":"error","message":"Error authenticating user: Error: Invalid password","service":"acquisitions-api","timestamp":"2025-12-11T09:20:50.463Z"}
+{"level":"error","message":"Sign in error Invalid password","service":"acquisitions-api","stack":"Error: Invalid password\n    at authenticateUser (file:///Users/muneefrehman/Desktop/acquisitions/src/services/auth.service.js:74:13)\n    at async signIn (file:///Users/muneefrehman/Desktop/acquisitions/src/controllers/auth.controller.js:65:18)","timestamp":"2025-12-11T09:20:50.464Z"}
+{"level":"info","message":"::1 - - [11/Dec/2025:09:20:50 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 401 31 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api","timestamp":"2025-12-11T09:20:50.464Z"}
+{"level":"error","message":"Error authenticating user: Error: User not found","service":"acquisitions-api","timestamp":"2025-12-11T09:20:58.460Z"}
+{"level":"error","message":"Sign in error User not found","service":"acquisitions-api","stack":"Error: User not found\n    at authenticateUser (file:///Users/muneefrehman/Desktop/acquisitions/src/services/auth.service.js:65:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async signIn (file:///Users/muneefrehman/Desktop/acquisitions/src/controllers/auth.controller.js:65:18)","timestamp":"2025-12-11T09:20:58.462Z"}
+{"level":"info","message":"::1 - - [11/Dec/2025:09:20:58 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 401 31 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api","timestamp":"2025-12-11T09:20:58.463Z"}
+{"level":"info","message":"User muneefsyed01@gmail.com authenticated successfully","service":"acquisitions-api","timestamp":"2025-12-11T09:21:32.519Z"}
+{"level":"info","message":"User signed in successfully: muneefsyed01@gmail.com","service":"acquisitions-api","timestamp":"2025-12-11T09:21:32.525Z"}
+{"level":"info","message":"::1 - - [11/Dec/2025:09:21:32 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 120 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisitions-api","timestamp":"2025-12-11T09:21:32.525Z"}
