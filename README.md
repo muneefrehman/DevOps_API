@@ -208,26 +208,26 @@ Authorization: Bearer <token>
 
 ```json
 {
-    "message": "Users retrieved successfully",
-    "users": [
-        {
-            "id": 1,
-            "email": "contact@example.com",
-            "name": "Admin",
-            "role": "admin",
-            "created_at": "2025-12-11T07:16:46.486Z",
-            "updated_at": "2025-12-11T07:16:46.486Z"
-        },
-        {
-            "id": 2,
-            "email": "user@example.com",
-            "name": "User",
-            "role": "user",
-            "created_at": "2025-12-11T07:17:55.687Z",
-            "updated_at": "2025-12-11T07:17:55.687Z"
-        }
-    ],
-    "count": 2
+  "message": "Users retrieved successfully",
+  "users": [
+    {
+      "id": 1,
+      "email": "contact@example.com",
+      "name": "Admin",
+      "role": "admin",
+      "created_at": "2025-12-11T07:16:46.486Z",
+      "updated_at": "2025-12-11T07:16:46.486Z"
+    },
+    {
+      "id": 2,
+      "email": "user@example.com",
+      "name": "User",
+      "role": "user",
+      "created_at": "2025-12-11T07:17:55.687Z",
+      "updated_at": "2025-12-11T07:17:55.687Z"
+    }
+  ],
+  "count": 2
 }
 ```
 
